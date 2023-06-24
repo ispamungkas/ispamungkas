@@ -9,7 +9,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?ispamungkas=your-github-ispamungkas&color=green)
+![](https://komarev.com/ghpvc/?ispamungkas=your-github-ispamungkas&style=flat-square)
 
 <br />
 
