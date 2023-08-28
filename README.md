@@ -1,4 +1,4 @@
-<center><i>Hola/i></center>
+<center><i>Hola</center>
 
 
 
