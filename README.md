@@ -1,9 +1,9 @@
-# Halo semua! 
+# Hello, everyone! 
 
-Perkenalkan nama saya **Ilham Surya Putra Pamungkas**.<br>
+i'm **Ilham Surya Putra Pamungkas**.<br>
+as student at [Universitas Muhammadiyah Tangerang](https://umt.ac.id/).<br>
 
-Saya seorang **Mahasiswa** di [Universitas Muhammadiyah Tangerang](https://umt.ac.id/).<br>
-Saat ini saya sedang menggeluti di bidang **Mobile Development**
+i'm currently just focus on **Mobile Development**
 
 ### Github Statistic
 <p align="left">
